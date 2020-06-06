@@ -11,7 +11,7 @@
     <a href="https://github.com/SiddhiJhunjhunwala/More-stylish-using-CSS/issues">Request Feature</a>
   </p>
 </p>
-##Team
+## Team
 *<a href="https://github.com/SiddhiJhunjhunwala"><b>Siddhi Jhunjhunwala</b></a> - Frontend
 <img style="margin:1em" src="https://github.com/SiddhiJhunjhunwala/More-stylish-using-CSS-/tree/master/CSS/images/Capture.PNG" width="100%"/>
 
