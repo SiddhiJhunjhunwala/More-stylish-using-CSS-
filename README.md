@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <img src="https://github.com/SiddhiJhunjhunwala/More-stylish-using-CSS-/blob/master/CSS/images/Capture.PNG" alt="Logo" height="80">
+  <img src="https://github.com/SiddhiJhunjhunwala/More-stylish-using-CSS-/blob/master/CSS/images/bbc-logo-design.gif" alt="Logo" height="80">
 <h3 align="center">Tech-BBC News</h3>
   <p align="center">
     Replication of webpage (Technology section) of the official BBC News site to learn CSS 
