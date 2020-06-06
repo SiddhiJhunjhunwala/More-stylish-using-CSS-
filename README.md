@@ -12,7 +12,7 @@
   </p>
 </p>
 
-<img style="margin:1em" src="https://github.com/SiddhiJhunjhunwala/More-stylish-using-CSS-/tree/master/CSS/images/Capture.PNG" width="100%"/>
+<img style="margin:1em" src="https://github.com/SiddhiJhunjhunwala/More-stylish-using-CSS-/blob/master/CSS/images/Capture.PNG" width="100%"/>
 
 ### Built With
 * [HTML5](https://html.com/)
